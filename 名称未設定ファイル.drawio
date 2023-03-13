@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T14:17:56.634Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="YYJNNphMNYHKwzLTbPcW" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-13T14:25:25.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="xyoBHbz_ffIMdBovxDiu" version="21.0.6" type="github">
   <diagram name="ページ1" id="QVNJtjlh60ful9_R9mPs">
-    <mxGraphModel dx="1366" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="4097" dy="2730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="K0KkJyJvsFJ-GM6A_FJX-62" value="" style="group;align=center;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="120" y="300" width="1680" height="750" as="geometry" />
+          <mxGeometry x="160" y="450" width="1680" height="750" as="geometry" />
         </mxCell>
         <mxCell id="K0KkJyJvsFJ-GM6A_FJX-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="K0KkJyJvsFJ-GM6A_FJX-62">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -17,7 +17,7 @@
         <mxCell id="K0KkJyJvsFJ-GM6A_FJX-18" value="接続端末" style="swimlane;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-62">
           <mxGeometry x="1116.5606953275387" y="86.06557377049181" width="207.3942717144025" height="627.049180327869" as="geometry" />
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-21" value="コンソール端末&lt;br&gt;Microsoft SyrfaceBook3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-18">
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-21" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;コンソール端末&lt;br&gt;Microsoft SyrfaceBook3&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-18">
           <mxGeometry x="0.01399988333438856" y="331.96721311475414" width="207.3662719477338" height="49.180327868852466" as="geometry" />
         </mxCell>
         <mxCell id="K0KkJyJvsFJ-GM6A_FJX-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/devices-42/512/Laptop-128.png" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-18">
@@ -26,13 +26,13 @@
         <mxCell id="K0KkJyJvsFJ-GM6A_FJX-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/devices-42/512/Laptop-128.png" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-18">
           <mxGeometry x="47.97171323572305" y="233.6065573770492" width="111.47251154786704" height="111.47251154786704" as="geometry" />
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-14" value="Minecraftサーバー(予定)&lt;br&gt;Lenovo G50&lt;br&gt;(常時RE200有線接続)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-18">
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-14" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Minecraftサーバー(予定)&lt;br&gt;Lenovo G50&lt;br&gt;(常時RE200有線接続)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-18">
           <mxGeometry x="0.013999883334292815" y="159.8360655737705" width="207.3662719477338" height="49.180327868852466" as="geometry" />
         </mxCell>
         <mxCell id="K0KkJyJvsFJ-GM6A_FJX-35" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Smartphone.svg;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-18">
           <mxGeometry x="83.43937642186322" y="418.03278688524597" width="46.44687981161126" height="101.3386468616973" as="geometry" />
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-37" value="その他、個人端末複数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-18">
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-37" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;その他、個人端末複数&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-18">
           <mxGeometry x="0.027999766668744788" y="540.9836065573771" width="207.3662719477338" height="49.180327868852466" as="geometry" />
         </mxCell>
         <mxCell id="K0KkJyJvsFJ-GM6A_FJX-27" value="ネットワーク機器" style="swimlane;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-62">
@@ -41,29 +41,26 @@
         <mxCell id="K0KkJyJvsFJ-GM6A_FJX-1" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-27">
           <mxGeometry x="55.99953333722223" y="61.47540983606558" width="111.99906667444436" height="98.36065573770493" as="geometry" />
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-7" value="ネットワークルーター&lt;br&gt;Aterm BL900H" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-27">
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-7" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;ネットワークルーター&lt;br&gt;Aterm BL900H&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-27">
           <mxGeometry x="16.63186140115499" y="172.13114754098362" width="190.74841042991306" height="49.180327868852466" as="geometry" />
         </mxCell>
         <mxCell id="K0KkJyJvsFJ-GM6A_FJX-6" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-27">
           <mxGeometry x="56.013533220556575" y="233.6065573770492" width="111.99906667444436" height="98.36065573770493" as="geometry" />
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-8" value="アクセスポイント&lt;br&gt;IODATA　WN-AX2033GR2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-27">
-          <mxGeometry x="8.329930583911754" y="355.9426229508197" width="207.36627194773376" height="49.180327868852466" as="geometry" />
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-8" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;アクセスポイント&lt;br&gt;IODATA　WN-AX2033GR2&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-27">
+          <mxGeometry y="355.94" width="220" height="49.18" as="geometry" />
         </mxCell>
         <mxCell id="K0KkJyJvsFJ-GM6A_FJX-9" value="" style="image;html=1;image=img/lib/clip_art/networking/Repeater_128x128.png" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-27">
           <mxGeometry x="56.013533220556475" y="418.03278688524597" width="111.99906667444436" height="98.36065573770493" as="geometry" />
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-11" value="中継機&lt;br&gt;Tp-Link RE200" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-27">
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-11" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;中継機&lt;br style=&quot;&quot;&gt;Tp-Link RE200&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-27">
           <mxGeometry x="8.31593070057757" y="528.6885245901641" width="207.36627194773376" height="49.180327868852466" as="geometry" />
         </mxCell>
         <mxCell id="K0KkJyJvsFJ-GM6A_FJX-28" value="インターネット回線" style="swimlane;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-62">
           <mxGeometry x="419.9965000291663" y="86.06557377049181" width="191.70040249664595" height="627.049180327869" as="geometry" />
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-5" value="au光&lt;br&gt;Biglobe 1Gbps" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-28">
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-5" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;au光&lt;br&gt;Biglobe 1Gbps&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-28">
           <mxGeometry x="17.107857434521467" y="172.13114754098362" width="157.4986875109374" height="49.180327868852466" as="geometry" />
-        </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="K0KkJyJvsFJ-GM6A_FJX-28" source="K0KkJyJvsFJ-GM6A_FJX-3" target="K0KkJyJvsFJ-GM6A_FJX-5">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K0KkJyJvsFJ-GM6A_FJX-3" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_globe.svg;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-28">
           <mxGeometry x="67.6974928542263" y="93.93065573770494" width="56.29924825649851" height="56.29924825649851" as="geometry" />
@@ -88,19 +85,19 @@
         <mxCell id="K0KkJyJvsFJ-GM6A_FJX-40" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_globe.svg;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-39">
           <mxGeometry x="104.8491833401389" y="86.06557377049181" width="56.29924825649851" height="56.29924825649851" as="geometry" />
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-41" value="Blog (livedoor Blog)&lt;br&gt;www.siokarasi.blog.jp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-39">
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-41" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Blog (livedoor Blog)&lt;br&gt;www.siokarasi.blog.jp&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-39">
           <mxGeometry x="34.99970833576386" y="159.8360655737705" width="195.99836668027763" height="49.180327868852466" as="geometry" />
         </mxCell>
         <mxCell id="K0KkJyJvsFJ-GM6A_FJX-45" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_globe.svg;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-39">
           <mxGeometry x="104.8491833401389" y="248.9754098360656" width="56.29924825649851" height="56.29924825649851" as="geometry" />
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-46" value="塩鯖HP&lt;br&gt;メールサーバ(Xreaサイト)&lt;br&gt;・www.siokarasi@s239.xrea.com&lt;br&gt;・www.siokarasi.shop" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-39">
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-46" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;塩鯖HP&lt;br&gt;メールサーバ(Xreaサイト)&lt;br&gt;・www.siokarasi@s239.xrea.com&lt;br&gt;・www.siokarasi.shop&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-39">
           <mxGeometry y="328.8934426229509" width="265.99778335180537" height="49.180327868852466" as="geometry" />
         </mxCell>
         <mxCell id="K0KkJyJvsFJ-GM6A_FJX-48" value="クライアントサイド" style="swimlane;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-62">
           <mxGeometry x="1472.6057282855975" y="86.06557377049181" width="207.3942717144025" height="627.049180327869" as="geometry" />
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-49" value="MInecraft&lt;br&gt;BE&amp;amp;JB ver.1.19" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-48">
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-49" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;MInecraft&lt;br&gt;BE&amp;amp;JB ver.1.19&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-48">
           <mxGeometry x="0.02799976666869505" y="172.13114754098362" width="207.3662719477338" height="49.180327868852466" as="geometry" />
         </mxCell>
         <mxCell id="K0KkJyJvsFJ-GM6A_FJX-56" value="Game" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;html=1;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-48">
@@ -111,7 +108,7 @@
             <mxPoint x="-25" y="21.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-58" value="MInecraft&lt;br&gt;JB ver.1.12" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-48">
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-58" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;MInecraft&lt;br&gt;JB ver.1.12&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-48">
           <mxGeometry y="368.8524590163934" width="207.3662719477338" height="49.180327868852466" as="geometry" />
         </mxCell>
         <mxCell id="K0KkJyJvsFJ-GM6A_FJX-59" value="Game" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;html=1;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-48">
@@ -131,6 +128,9 @@
         </mxCell>
         <mxCell id="K0KkJyJvsFJ-GM6A_FJX-61" value="宅内" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="K0KkJyJvsFJ-GM6A_FJX-62">
           <mxGeometry x="391.9967333605553" width="951.9920667327772" height="750.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-67" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;塩鯖(仮称)　&lt;br&gt;ネットワーク構成図&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;labelBackgroundColor=#11df86;textOpacity=70;" vertex="1" parent="1">
+          <mxGeometry x="525" y="50" width="950" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
