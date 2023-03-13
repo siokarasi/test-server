@@ -1,139 +1,139 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T14:28:20.245Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="u9nAXdOvFCy2hiFpwlAs" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-13T14:43:12.765Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="4wuk-k5dBUF0YuPOrrWt" version="21.0.6" type="github">
   <diagram name="ページ1" id="QVNJtjlh60ful9_R9mPs">
-    <mxGraphModel dx="3511" dy="2340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" background="#FFF4C3" math="0" shadow="0">
+    <mxGraphModel dx="3711" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" background="#D5E8D4" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-62" value="" style="group;align=center;verticalAlign=middle;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="215" y="490" width="1570" height="720" as="geometry" />
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-67" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;塩鯖(仮称)　&lt;br&gt;ネットワーク構成図&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;labelBackgroundColor=#11df86;textOpacity=70;" parent="1" vertex="1">
+          <mxGeometry x="-768" y="30" width="557" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="K0KkJyJvsFJ-GM6A_FJX-62" edge="1">
+        <mxCell id="eKcDS0l6ucxIr-pv-jlC-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-950" y="190" width="929.63" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="eKcDS0l6ucxIr-pv-jlC-5" value="" style="group;labelBackgroundColor=#3399FF;" vertex="1" connectable="0" parent="eKcDS0l6ucxIr-pv-jlC-12">
+          <mxGeometry width="929.6199999999999" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="eKcDS0l6ucxIr-pv-jlC-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="596.1763651969567" y="177.04918032786884" as="sourcePoint" />
-            <mxPoint x="674.6757110357414" y="177.04918032786884" as="targetPoint" />
+            <mxPoint x="356.0611994900042" y="120.4918032786885" as="sourcePoint" />
+            <mxPoint x="400.3108307430772" y="120.4918032786885" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-18" value="接続端末" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;" parent="K0KkJyJvsFJ-GM6A_FJX-62" vertex="1">
-          <mxGeometry x="1043.4525545620452" y="82.62295081967214" width="193.81488487595948" height="601.9672131147541" as="geometry" />
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-18" value="接続端末" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="eKcDS0l6ucxIr-pv-jlC-5" vertex="1">
+          <mxGeometry x="608.19" y="56.23" width="121.81" height="409.67" as="geometry" />
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-21" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;コンソール端末&lt;br&gt;Microsoft SyrfaceBook3&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="K0KkJyJvsFJ-GM6A_FJX-18" vertex="1">
-          <mxGeometry x="0.01308322430654169" y="318.688524590164" width="193.78871842734645" height="47.21311475409836" as="geometry" />
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-21" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;コンソール端末&lt;br&gt;Microsoft SyrfaceBook3&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="K0KkJyJvsFJ-GM6A_FJX-18" vertex="1">
+          <mxGeometry y="203.76999999999998" width="119.99" height="32.13" as="geometry" />
         </mxCell>
         <mxCell id="K0KkJyJvsFJ-GM6A_FJX-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/devices-42/512/Laptop-128.png" parent="K0KkJyJvsFJ-GM6A_FJX-18" vertex="1">
-          <mxGeometry x="44.830708202431566" y="51.773114754098366" width="104.17371614889956" height="104.17371614889956" as="geometry" />
+          <mxGeometry x="38.17081322238977" y="35.234480874316944" width="43.67131972431366" height="43.67131972431366" as="geometry" />
         </mxCell>
         <mxCell id="K0KkJyJvsFJ-GM6A_FJX-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/devices-42/512/Laptop-128.png" parent="K0KkJyJvsFJ-GM6A_FJX-18" vertex="1">
-          <mxGeometry x="44.83070820243166" y="224.2622950819672" width="104.17371614889956" height="104.17371614889956" as="geometry" />
+          <mxGeometry x="39.07081322238982" y="143.77295081967216" width="43.67131972431366" height="43.67131972431366" as="geometry" />
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-14" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Minecraftサーバー(予定)&lt;br&gt;Lenovo G50&lt;br&gt;(常時RE200有線接続)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="K0KkJyJvsFJ-GM6A_FJX-18" vertex="1">
-          <mxGeometry x="0.013083224306452214" y="153.44262295081967" width="193.78871842734645" height="47.21311475409836" as="geometry" />
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-14" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Minecraftサーバー&lt;br&gt;Lenovo G50&lt;br&gt;(常時RE200有線接続)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="K0KkJyJvsFJ-GM6A_FJX-18" vertex="1">
+          <mxGeometry y="86.77000000000001" width="119.99" height="32.13" as="geometry" />
         </mxCell>
         <mxCell id="K0KkJyJvsFJ-GM6A_FJX-35" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Smartphone.svg;" parent="K0KkJyJvsFJ-GM6A_FJX-18" vertex="1">
-          <mxGeometry x="77.97608391805075" y="401.31147540983613" width="43.40571506204147" height="94.7033783171814" as="geometry" />
+          <mxGeometry x="51.80467150794579" y="273.11475409836066" width="18.19638321846402" height="39.70119974937605" as="geometry" />
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-37" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;その他、個人端末複数&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="K0KkJyJvsFJ-GM6A_FJX-18" vertex="1">
-          <mxGeometry x="0.026166448613053166" y="519.344262295082" width="193.78871842734645" height="47.21311475409836" as="geometry" />
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-37" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;その他、個人端末複数&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="K0KkJyJvsFJ-GM6A_FJX-18" vertex="1">
+          <mxGeometry y="323.77" width="121.81" height="32.13" as="geometry" />
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-27" value="ネットワーク機器" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;" parent="K0KkJyJvsFJ-GM6A_FJX-62" vertex="1">
-          <mxGeometry x="700.8421596486696" y="82.62295081967214" width="209.33158890342577" height="601.9672131147541" as="geometry" />
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-27" value="ネットワーク機器" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="eKcDS0l6ucxIr-pv-jlC-5" vertex="1">
+          <mxGeometry x="420.0007078274347" y="56.22950819672133" width="120" height="409.67213114754094" as="geometry" />
         </mxCell>
         <mxCell id="K0KkJyJvsFJ-GM6A_FJX-1" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" parent="K0KkJyJvsFJ-GM6A_FJX-27" vertex="1">
-          <mxGeometry x="52.33289722585649" y="59.016393442622956" width="104.66579445171288" height="94.42622950819673" as="geometry" />
+          <mxGeometry x="29.509754168715286" y="33.7739344262295" width="58.99950833743052" height="64.26229508196721" as="geometry" />
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-7" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;ネットワークルーター&lt;br&gt;Aterm BL900H&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="K0KkJyJvsFJ-GM6A_FJX-27" vertex="1">
-          <mxGeometry x="15.542870476079365" y="165.24590163934428" width="178.2589311755735" height="47.21311475409836" as="geometry" />
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-7" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;ネットワークルーター&lt;br&gt;Aterm BL900H&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="K0KkJyJvsFJ-GM6A_FJX-27" vertex="1">
+          <mxGeometry y="112.46" width="120" height="32.13" as="geometry" />
         </mxCell>
         <mxCell id="K0KkJyJvsFJ-GM6A_FJX-6" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" parent="K0KkJyJvsFJ-GM6A_FJX-27" vertex="1">
-          <mxGeometry x="52.34598045016299" y="224.2622950819672" width="104.66579445171288" height="94.42622950819673" as="geometry" />
-        </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-8" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;アクセスポイント&lt;br&gt;IODATA　WN-AX2033GR2&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="K0KkJyJvsFJ-GM6A_FJX-27" vertex="1">
-          <mxGeometry y="341.7024" width="205.5952380952381" height="47.2128" as="geometry" />
+          <mxGeometry x="29.507129107257477" y="152.62295081967216" width="58.99950833743052" height="64.26229508196721" as="geometry" />
         </mxCell>
         <mxCell id="K0KkJyJvsFJ-GM6A_FJX-9" value="" style="image;html=1;image=img/lib/clip_art/networking/Repeater_128x128.png" parent="K0KkJyJvsFJ-GM6A_FJX-27" vertex="1">
-          <mxGeometry x="52.3459804501629" y="401.31147540983613" width="104.66579445171288" height="94.42622950819673" as="geometry" />
+          <mxGeometry x="30.497129107257425" y="273.11475409836066" width="58.99950833743052" height="64.26229508196721" as="geometry" />
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-11" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;中継機&lt;br style=&quot;&quot;&gt;Tp-Link RE200&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="K0KkJyJvsFJ-GM6A_FJX-27" vertex="1">
-          <mxGeometry x="7.771435238039752" y="507.5409836065575" width="193.78871842734642" height="47.21311475409836" as="geometry" />
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-11" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;中継機&lt;br style=&quot;&quot;&gt;Tp-Link RE200&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="K0KkJyJvsFJ-GM6A_FJX-27" vertex="1">
+          <mxGeometry x="4.3807134940542545" y="345.4098360655738" width="109.23758968675261" height="32.131147540983605" as="geometry" />
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-28" value="インターネット回線" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;" parent="K0KkJyJvsFJ-GM6A_FJX-62" vertex="1">
-          <mxGeometry x="392.4967291939233" y="82.62295081967214" width="179.14859042841317" height="601.9672131147541" as="geometry" />
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-28" value="インターネット回線" style="swimlane;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="eKcDS0l6ucxIr-pv-jlC-5" vertex="1">
+          <mxGeometry x="241.24815626536446" y="56.22950819672133" width="100.98503345805457" height="409.67213114754094" as="geometry" />
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-5" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;au光&lt;br&gt;Biglobe 1Gbps&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="K0KkJyJvsFJ-GM6A_FJX-28" vertex="1">
-          <mxGeometry x="15.987700102499229" y="165.24590163934428" width="147.18627344772128" height="47.21311475409836" as="geometry" />
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;au光&lt;br&gt;Biglobe 1Gbps&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="K0KkJyJvsFJ-GM6A_FJX-28" vertex="1">
+          <mxGeometry x="9.01217489854256" y="112.45901639344262" width="82.96805859951166" height="32.131147540983605" as="geometry" />
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-3" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_globe.svg;" parent="K0KkJyJvsFJ-GM6A_FJX-28" vertex="1">
-          <mxGeometry x="63.264918917342435" y="90.17342950819673" width="52.61298795398968" height="52.61298795398968" as="geometry" />
-        </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-33" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="K0KkJyJvsFJ-GM6A_FJX-62" edge="1">
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-33" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="eKcDS0l6ucxIr-pv-jlC-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="936.3401971650237" y="177.04918032786884" as="sourcePoint" />
-            <mxPoint x="1014.8395430038082" y="177.04918032786884" as="targetPoint" />
+            <mxPoint x="547.8096015866536" y="120.4918032786885" as="sourcePoint" />
+            <mxPoint x="592.0592328397262" y="120.4918032786885" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="K0KkJyJvsFJ-GM6A_FJX-62" edge="1">
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="eKcDS0l6ucxIr-pv-jlC-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="353.24705627453096" y="177.04918032786884" as="sourcePoint" />
-            <mxPoint x="274.7477104357464" y="177.04918032786884" as="targetPoint" />
+            <mxPoint x="219.12334063882798" y="120.4918032786885" as="sourcePoint" />
+            <mxPoint x="174.87370938575512" y="120.4918032786885" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-39" value="cloud関係" style="swimlane;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="K0KkJyJvsFJ-GM6A_FJX-62" vertex="1">
-          <mxGeometry y="82.62295081967214" width="248.5812618228181" height="601.9672131147541" as="geometry" />
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-39" value="cloud関係" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;" parent="eKcDS0l6ucxIr-pv-jlC-5" vertex="1">
+          <mxGeometry y="56.22465116279067" width="160.12000000000003" height="409.6741860465116" as="geometry" />
         </mxCell>
         <mxCell id="K0KkJyJvsFJ-GM6A_FJX-40" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_globe.svg;" parent="K0KkJyJvsFJ-GM6A_FJX-39" vertex="1">
-          <mxGeometry x="97.98405824048695" y="82.62295081967214" width="52.61298795398968" height="52.61298795398968" as="geometry" />
+          <mxGeometry x="69.03305193810888" y="56.22950819672131" width="22.056222082986697" height="22.056222082986697" as="geometry" />
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-41" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Blog (livedoor Blog)&lt;br&gt;www.siokarasi.blog.jp&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="K0KkJyJvsFJ-GM6A_FJX-39" vertex="1">
-          <mxGeometry x="32.70806076616028" y="153.44262295081967" width="183.16514029049753" height="47.21311475409836" as="geometry" />
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-41" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Blog (livedoor Blog)&lt;br&gt;www.siokarasi.blog.jp&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="K0KkJyJvsFJ-GM6A_FJX-39" vertex="1">
+          <mxGeometry x="28.437346355447037" y="104.42622950819673" width="103.2491395905034" height="32.131147540983605" as="geometry" />
         </mxCell>
         <mxCell id="K0KkJyJvsFJ-GM6A_FJX-45" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_globe.svg;" parent="K0KkJyJvsFJ-GM6A_FJX-39" vertex="1">
-          <mxGeometry x="97.98405824048695" y="239.01639344262298" width="52.61298795398968" height="52.61298795398968" as="geometry" />
+          <mxGeometry x="69.03305193810888" y="162.66393442622953" width="22.056222082986697" height="22.056222082986697" as="geometry" />
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-46" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;塩鯖HP&lt;br&gt;メールサーバ(Xreaサイト)&lt;br&gt;・www.siokarasi@s239.xrea.com&lt;br&gt;・www.siokarasi.shop&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="K0KkJyJvsFJ-GM6A_FJX-39" vertex="1">
-          <mxGeometry y="315.7377049180328" width="248.5812618228181" height="47.21311475409836" as="geometry" />
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-46" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;塩鯖HP&lt;br&gt;メールサーバ(Xreaサイト)&lt;br&gt;・www.siokarasi@s239.xrea.com&lt;br&gt;・www.siokarasi.shop&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="K0KkJyJvsFJ-GM6A_FJX-39" vertex="1">
+          <mxGeometry y="214.8820930232558" width="160.00000000000003" height="81.39697674418606" as="geometry" />
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-48" value="クライアントサイド" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;" parent="K0KkJyJvsFJ-GM6A_FJX-62" vertex="1">
-          <mxGeometry x="1376.1851151240405" y="82.62295081967214" width="193.81488487595948" height="601.9672131147541" as="geometry" />
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-61" value="宅内" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#3333FF;" parent="eKcDS0l6ucxIr-pv-jlC-5" vertex="1">
+          <mxGeometry x="226.5" width="513.5" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-49" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;MInecraft&lt;br&gt;BE&amp;amp;JB ver.1.19&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="K0KkJyJvsFJ-GM6A_FJX-48" vertex="1">
-          <mxGeometry x="0.026166448613006682" y="165.24590163934428" width="193.78871842734645" height="47.21311475409836" as="geometry" />
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-3" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_globe.svg;" parent="K0KkJyJvsFJ-GM6A_FJX-61" vertex="1">
+          <mxGeometry x="54.21194921292329" y="116.09335056551026" width="22.056222082986697" height="22.056222082986697" as="geometry" />
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-56" value="Game" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;html=1;" parent="K0KkJyJvsFJ-GM6A_FJX-48" vertex="1">
-          <mxGeometry x="51.11615736535543" y="59.016393442622956" width="91.58257014524878" height="100.32786885245903" as="geometry" />
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-8" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;アクセスポイント&lt;br style=&quot;&quot;&gt;WN-AX2033GR2&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="K0KkJyJvsFJ-GM6A_FJX-61" vertex="1">
+          <mxGeometry x="193.50242864642792" y="279.9995081967213" width="120" height="32.13" as="geometry" />
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-57" value="" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.game;part=1;" parent="K0KkJyJvsFJ-GM6A_FJX-56" vertex="1">
-          <mxGeometry x="0.5" width="50" height="27" relative="1" as="geometry">
-            <mxPoint x="-25" y="21.5" as="offset" />
-          </mxGeometry>
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-58" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;MInecraft&lt;br&gt;JB ver.1.12&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="eKcDS0l6ucxIr-pv-jlC-5" vertex="1">
+          <mxGeometry x="820.377660436163" y="370.00311475409836" width="109.23758968675263" height="32.131147540983605" as="geometry" />
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-58" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;MInecraft&lt;br&gt;JB ver.1.12&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="K0KkJyJvsFJ-GM6A_FJX-48" vertex="1">
-          <mxGeometry y="354.0983606557377" width="193.78871842734645" height="47.21311475409836" as="geometry" />
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-49" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;MInecraft&lt;br&gt;BE&amp;amp;JB ver.1.19&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="eKcDS0l6ucxIr-pv-jlC-5" vertex="1">
+          <mxGeometry x="820.3824103132473" y="199.99852459016395" width="109.23758968675263" height="32.131147540983605" as="geometry" />
         </mxCell>
-        <mxCell id="eKcDS0l6ucxIr-pv-jlC-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="K0KkJyJvsFJ-GM6A_FJX-48" source="K0KkJyJvsFJ-GM6A_FJX-59" target="K0KkJyJvsFJ-GM6A_FJX-58">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-59" value="Game" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;html=1;" parent="K0KkJyJvsFJ-GM6A_FJX-48" vertex="1">
-          <mxGeometry x="51.0899909167426" y="247.86885245901638" width="91.58257014524878" height="100.32786885245903" as="geometry" />
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-59" value="Game" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;html=1;" parent="eKcDS0l6ucxIr-pv-jlC-5" vertex="1">
+          <mxGeometry x="849.1867954433714" y="279.9980327868853" width="51.62456979525171" height="68.27868852459017" as="geometry" />
         </mxCell>
         <mxCell id="K0KkJyJvsFJ-GM6A_FJX-60" value="" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.game;part=1;" parent="K0KkJyJvsFJ-GM6A_FJX-59" vertex="1">
           <mxGeometry x="0.5" width="50" height="27" relative="1" as="geometry">
             <mxPoint x="-25" y="21.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-55" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="K0KkJyJvsFJ-GM6A_FJX-62" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1269.0727577270188" y="177.04918032786884" as="sourcePoint" />
-            <mxPoint x="1347.5721035658034" y="177.04918032786884" as="targetPoint" />
-            <Array as="points" />
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-48" value="クライアントサイド" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;" parent="eKcDS0l6ucxIr-pv-jlC-12" vertex="1">
+          <mxGeometry x="820.377660436163" y="56.229508196721326" width="109.25233956383703" height="409.67213114754094" as="geometry" />
+        </mxCell>
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-56" value="Game" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;html=1;" parent="K0KkJyJvsFJ-GM6A_FJX-48" vertex="1">
+          <mxGeometry x="28.81388488429271" y="40.1639344262295" width="51.62456979525171" height="68.27868852459017" as="geometry" />
+        </mxCell>
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-57" value="" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.game;part=1;" parent="K0KkJyJvsFJ-GM6A_FJX-56" vertex="1">
+          <mxGeometry x="0.5" width="50" height="27" relative="1" as="geometry">
+            <mxPoint x="-25" y="21.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-61" value="宅内" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="K0KkJyJvsFJ-GM6A_FJX-62" vertex="1">
-          <mxGeometry x="366.3302805809951" width="889.6592528395596" height="720.0000000000001" as="geometry" />
-        </mxCell>
-        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-67" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;塩鯖(仮称)　&lt;br&gt;ネットワーク構成図&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;labelBackgroundColor=#11df86;textOpacity=70;" parent="1" vertex="1">
-          <mxGeometry x="525" y="100" width="950" height="280" as="geometry" />
+        <mxCell id="K0KkJyJvsFJ-GM6A_FJX-55" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="eKcDS0l6ucxIr-pv-jlC-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="759.999038591345" y="120.49180327868851" as="sourcePoint" />
+            <mxPoint x="804.248669844418" y="120.49180327868851" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
